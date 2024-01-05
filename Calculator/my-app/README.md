@@ -3,6 +3,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 ## Getting Started
 
 ### Trying a typescript project for the first time
+### With tailwind css
 
 First, run the development server:
 
