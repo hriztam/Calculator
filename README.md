@@ -1,3 +1,3 @@
-# Frontend-Projects
+# Calculator
 
-### This repository is filled with amazing frontend projects
+### I made this calculator using Vanilla Javascript, HTML and CSS
