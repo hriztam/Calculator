@@ -1,3 +1,5 @@
-# Calculator
+# IPhone Calculator
 
-### Making this using ReactJS
+## Made this using ReactJS
+
+## Completed and fixing the bugs now
