@@ -5,7 +5,7 @@
 }
 
 body {
-  background-color: #ecf0f1;
+  background: linear-gradient(to right, #188AF0, #00E54B);
   margin: 0;
   font-family: 'Padauk', sans-serif;
   min-height: 100vh;
@@ -15,6 +15,7 @@ body {
 }
 
 .display {
+  width: 100%;
   text-align: left;
   font-size: 25px;
   padding: 10px;
@@ -28,14 +29,13 @@ body {
 .calculator {
   background-color: #111;
   display: flex;
-  flex-flow: column wrap;
+  flex-flow: row wrap;
   height: 380px;
   width: 250px;
 }
 
 .ops-container {
-  max-width: 25%;
-  margin-top: 25%;
+  width: 25%;
 }
 
 button {
@@ -80,17 +80,12 @@ button:focus {
 
 .title {
   position: absolute;
-  top: 0;
+  top: 50px;
   text-align: center;
 }
 
 .byline {
   position: absolute;
-  bottom: 0;
+  bottom: 50px;
   text-align: center;
-}
-
-i {
-  position: absolute;
-  top: 0;
 }
