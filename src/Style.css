@@ -20,6 +20,8 @@ body {
   font-size: 25px;
   padding: 10px;
   color: #fff;
+  word-wrap: break-word;
+  word-break: break-all;
 }
 
 .nums-container {
